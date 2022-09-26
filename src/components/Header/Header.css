@@ -1,0 +1,13 @@
+.nav-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(49, 49, 49);
+    color:white;
+    padding:0 10%;
+}
+.nav-header>div>a{
+    text-decoration: none;
+    margin-left:1.8rem;
+    color:white;
+}
